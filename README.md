@@ -4,7 +4,7 @@
 💻 Passionate about software development, AI, and problem-solving
 🌱 Currently learning full-stack development and expanding my coding skills
 🤝 Open to collaborating on beginner-friendly and open-source projects
-📫 Reach me: *Add your email or LinkedIn here*
+📫 Reach me: asarabiju@gmail.com
 ✨ Always curious, always learning.
 
 
